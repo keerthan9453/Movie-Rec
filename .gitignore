@@ -1,3 +1,5 @@
 #add the data folder to gitignore
-data/*
+data/raw/ratings.parquet
 src/data/raw
+.venv/*
+.vscode/*
