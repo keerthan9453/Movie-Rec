@@ -3,3 +3,4 @@ data/raw/ratings.parquet
 src/data/raw
 .venv/*
 .vscode/*
+.env.example
