@@ -1,0 +1,3 @@
+#add the data folder to gitignore
+data/*
+src/data/raw
